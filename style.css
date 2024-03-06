@@ -1,0 +1,48 @@
+#f1p , #mp{
+    background-color: black;
+    color: white;
+}
+#f1m , #mm , #tm{
+    background-color: saddlebrown;
+    color: white;
+}
+#f1v , #mv , #tv{
+    background-color: red;
+    color: white;
+}
+#f1l , #ml{
+    background-color: orange;
+    color: white;
+}
+#f1a , #ma{
+    background-color: yellow;
+    color: black;
+}
+#f1ve , #mve , #tve{
+    background-color: green;
+    color: white;
+}
+#f1az , #maz , #taz{
+    background-color: blue;
+    color: white;
+}
+#f1vi , #mvi , #tvi{
+    background-color: violet;
+    color: white;
+}
+#f1c{
+    background-color: gray;
+    color: white;
+}
+#f1b{
+    background-color: white;
+    color: black;
+}
+#md , #td{
+    background-color: gold;
+    color: black;
+}
+#mprat , #tprat{
+    background-color: silver;
+    color: black;
+}
